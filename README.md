@@ -1,4 +1,4 @@
-# kali-hackthebox
+# kali-hackthebox-theme
 
 <img width="1901" height="831" alt="image" src="https://github.com/user-attachments/assets/702c1c3c-834a-4d3e-822f-d687833b9bf7" />
 

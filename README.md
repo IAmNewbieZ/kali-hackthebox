@@ -8,4 +8,4 @@
 3. Copy `tmux.conf` to your local `.tmux.conf` and enter the command `tmux source .tmux.conf`, after that press Ctrl+F and I to install the plugins. Then wait for a bit and it will finish. 
 
 # Optional
-You want to list all the directories but with the colour is green instead of blue. Please change the value of `[Color4Intense]` to `Color=0,255,106`. This will change all the blue to green colour
+You want to list all the directories but with green colour instead of blue. Please change the value of `[Color4Intense]` to `Color=0,255,106` in `HackTheBox.colorscheme`. This will change all the blue to green colour

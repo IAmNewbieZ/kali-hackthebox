@@ -1,4 +1,4 @@
-# kali-hackthebox-theme
+# Kali HTB Colour Scheme + Tmux Setup
 
 <img width="1901" height="831" alt="image" src="https://github.com/user-attachments/assets/702c1c3c-834a-4d3e-822f-d687833b9bf7" />
 
